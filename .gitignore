@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Đóng gói và tệp nhị phân lớn
+GiangDayCNTT_App/
+*.zip
+*.exe
+.office_cache/

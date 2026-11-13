@@ -1,0 +1,31 @@
+[
+  {
+    "id": "CLASS-01",
+    "name": "Lớp Tin học K20A - Ca Sáng",
+    "subject": "Microsoft Word & Excel Căn Bản",
+    "createdAt": "10/11/2024",
+    "room": "Phòng Máy 01",
+    "students": [
+      { "id": "S1", "studentCode": "2100101", "fullName": "Nguyễn Văn An", "birthDate": "15/05/2003" },
+      { "id": "S2", "studentCode": "2100102", "fullName": "Trần Thị Mai", "birthDate": "22/08/2003" },
+      { "id": "S3", "studentCode": "2100103", "fullName": "Lê Hoàng Long", "birthDate": "10/12/2003" },
+      { "id": "S4", "studentCode": "2100104", "fullName": "Phạm Minh Tuấn", "birthDate": "03/01/2003" },
+      { "id": "S5", "studentCode": "2100105", "fullName": "Võ Thị Thu Hà", "birthDate": "18/09/2003" }
+    ],
+    "attendanceHistory": []
+  },
+  {
+    "id": "CLASS-02",
+    "name": "Lớp Tin học Thực hành K21B",
+    "subject": "Microsoft PowerPoint & Báo cáo",
+    "createdAt": "08/11/2024",
+    "room": "Phòng Máy 03",
+    "students": [
+      { "id": "S6", "studentCode": "2100201", "fullName": "Đỗ Đức Trọng", "birthDate": "12/04/2003" },
+      { "id": "S7", "studentCode": "2100202", "fullName": "Hoàng Lan Anh", "birthDate": "05/11/2003" },
+      { "id": "S8", "studentCode": "2100203", "fullName": "Bùi Gia Huy", "birthDate": "27/07/2003" }
+    ],
+    "attendanceHistory": []
+  }
+]
+
